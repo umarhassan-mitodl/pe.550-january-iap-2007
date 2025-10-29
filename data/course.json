@@ -1,0 +1,45 @@
+{
+  "term": "January IAP",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Mental Health"
+    ]
+  ],
+  "legacy_uid": "0b74e106-9176-caea-1bb5-c6e085de13ee",
+  "instructors": {
+    "content": [
+      "8cabf819-533f-6464-e7ad-5d2aa2e63561",
+      "b120e68f-9813-f64a-0015-def2c1ae5d8c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "57642935-d9b5-0d50-ed23-317d2303214c",
+    "website": "pe-550-designing-your-life-january-iap-2007"
+  },
+  "course_title": "Designing Your Life",
+  "hide_download": false,
+  "course_description": "This course provides an exciting, eye-opening, and thoroughly useful inquiry into what it takes to live an extraordinary life, on your own terms. The instructors address what it takes to succeed, to be proud of your life, and to be happy in it. Participants tackle career satisfaction, money, body, vices, and relationship to themselves and others. They learn how to address issues in their lives, how to live life, and how to learn from it.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. This not-for-credit course is sponsored by the Department of Science, Technology, and Society. A similar, semester-long version of this course is taught in the Sloan Fellows Program. A semester-long extension of the IAP course is also taught to the population at large of MIT (please see PE.550, Spring).\n\n##### Acknowledgment\n\nThe instructors would like to thank Prof. David Mindell for his sponsorship of this course, his intention for its continued expansion, and his commitment to the well-being of MIT students.\n",
+  "department_numbers": [
+    "PE"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "PE.550",
+  "course_image_thumbnail": {
+    "content": "291b9af9-511a-85da-b671-1c9ad7d65dd1",
+    "website": "pe-550-designing-your-life-january-iap-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "a8bdd041-1013-4f1c-bf54-9e158b1bccf6",
+  "site_short_id": "pe.550-january-iap-2007",
+  "site_url_path": "courses/pe-550-designing-your-life-january-iap-2007",
+  "title": "Course Metadata"
+}
